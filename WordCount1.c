@@ -25,7 +25,7 @@ int main(int argc, char *argv[]){
     if (strcmp(argv[1], "-w") == 0 || (strcmp(argv[1], "--words") == 0))
     {
         printf("Amount of words: %d\n", count_words(file));
-	printf("HI");
+
         return 0;
     }
 
