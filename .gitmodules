@@ -1,3 +1,6 @@
 [submodule "university"]
 	path = university
 	url = https://github.com/russianZAK/university
+[submodule "podmosule"]
+	path = podmosule
+	url = https://github.com/russianZAK/podmosule
