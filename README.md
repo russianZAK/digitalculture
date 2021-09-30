@@ -72,3 +72,8 @@ int count_words(FILE*file)
 # <center> ![](https://i.ibb.co/myR3Y6r/Fznp-QALpexc.jpg)</center>
 
 ![](https://img.shields.io/github/release/pandao/editor.md.svg)
+=======
+# digitalculture
+It's our homework ;)
+https://img.shields.io/apm/l/ghukjhkjh
+>>>>>>> 42162d073694090fa68770ef4fe947b7f6a51573
