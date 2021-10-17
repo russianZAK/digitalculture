@@ -33,7 +33,7 @@ int count_lines(FILE *file){
 }
 ```
 
-# - Count of lines
+# - Count of words
 ```javascript
 int count_words(FILE*file)
 {
